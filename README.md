@@ -10,10 +10,11 @@
 
 ### Data
 Website : https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+
 Data Dictionary : https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
 ### Entity Relationship Diagram Design
-We will be utilizing https://lucid.co/ to create a entity relationship diagram, to help us visualize and design the schema
+We will be utilizing Lucid to create a entity relationship diagram, to help us visualize and design the schema
 of the database by representing tables, columns, and relationships between the tables.
 
 ![entityrd](https://user-images.githubusercontent.com/130780065/236612655-99720e51-6ae7-4da9-803b-3feb343ae9d8.JPG)
@@ -37,7 +38,7 @@ The project workflow can be summarized as follows:
 ![uber_visualize](https://user-images.githubusercontent.com/130780065/236613454-b5807de4-883d-4903-a2f8-6065a6eba8a4.JPG)
 
 # Summary Report
-### Introduction:
+### Introduction
 As an intern at Uber, I have been tasked with performing data analytics on Uber's ride data using various tools and technologies, including Google Cloud Platform (GCP) services, Python, and external tools like Mage Data Pipeline Tool and Looker Studio. The goal of this project is to gain insights into the ride data to improve operational efficiency, customer satisfaction, and strategic decision-making.
 
 ### Architecture
