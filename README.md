@@ -4,7 +4,7 @@
 3. Data Pipeline Tool - https://www.mage.ai/
 4. Data Visualization Tool - Looker Studio
 
-### Programming Languages
+### Languages
 1. Python
 2. SQL
 
