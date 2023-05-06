@@ -39,7 +39,7 @@ The project workflow can be summarized as follows:
 
 # Summary Report
 ### Introduction
-As an intern at Uber, I have been tasked with performing data analytics on Uber's ride data using various tools and technologies, including Google Cloud Platform (GCP) services, Python, and external tools like Mage Data Pipeline Tool and Looker Studio. The goal of this project is to gain insights into the ride data to improve operational efficiency, customer satisfaction, and strategic decision-making.
+I will be performing data analytics on Uber's ride data using various tools and technologies, including Google Cloud Platform (GCP) services, Python, and external tools like Mage Data Pipeline Tool and Looker Studio. The goal of this project is to gain insights into the ride data to improve operational efficiency, customer satisfaction, and strategic decision-making.
 
 ### Architecture
 The architecture of the project consists of several components, each serving a specific purpose in the data analytics process. The components include GCP Storage, Compute Engine, BigQuery, Looker Studio, Mage Data Pipeline Tool, and the usage of APIs for data ingestion.
