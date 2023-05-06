@@ -1,12 +1,16 @@
 ### Technologies employed
-1. https://lucid.co/
-2. Google Cloud Platform Services : Google Storage , Google Compute Engine, Google BigQuery
-3. https://www.mage.ai/
-4. Looker Studio
+1. Database Schema Design - https://lucid.co/
+2. Google Cloud Platform Services - Google Storage , Google Compute Engine, Google BigQuery
+3. Data Pipeline Tool - https://www.mage.ai/
+4. Data Visualization Tool - Looker Studio
 
 ### Programming Languages
 1. Python
 2. SQL
+
+### Data
+Website : https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+Data Dictionary : https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
 ### Entity Relationship Diagram Design
 We will be utilizing https://lucid.co/ to create a entity relationship diagram, to help us visualize and design the schema
