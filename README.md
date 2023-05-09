@@ -1,3 +1,16 @@
+#Data Engineering with Uber Data
+
+### Problem Statements
+
+**What is an optimal pricing strategy for Uber?**
+
+By analyzing Uber's ride data, we can gain insights into the relationship between factors such as time of day, location, and customer demographics, and the demand for rides. This information can be used to develop dynamic pricing models that adjust prices in real-time based on current demand and supply. By implementing an optimal pricing strategy, Uber can maximize its revenue generation while maintaining a balance between affordability and profitability. Additionally, the company can use the insights to offer personalized promotions and discounts to specific customer segments, further enhancing customer satisfaction and loyalty.
+
+**How can Uber forecase demand and resource allocation?**
+
+Utilizing historical ride data and other external factors like weather, events, and public holidays, we can develop advanced demand forecasting models to predict future ride demand patterns. This predictive analysis will enable the company to allocate resources, such as drivers and vehicles, more effectively across different times and locations. Proper resource allocation ensures that the supply of rides meets the demand, reducing wait times for customers and minimizing idle time for drivers. As a result, operational efficiency improves, leading to reduced costs and increased customer satisfaction.
+
+
 ### Technologies employed
 1. Database Schema Design - https://lucid.co/
 2. Google Cloud Platform Services - Google Storage , Google Compute Engine, Google BigQuery
